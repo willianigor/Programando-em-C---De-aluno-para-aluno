@@ -21,7 +21,7 @@ media = total / 5;
 printf("Valor total das notas -> %f\n",total);
 printf("Media simples das notas -> %f \n",media);
 
-getchar();
+system("pause");
 
     return 0;
 }
